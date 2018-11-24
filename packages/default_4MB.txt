@@ -46,4 +46,4 @@ olsrd-mod-nameservice
 kmod-ipip
 
 # Uplink
-# use built in uplink via network on WAN-port
+freifunk-berlin-uplink-notunnel-files
